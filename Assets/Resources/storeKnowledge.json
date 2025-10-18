@@ -1,0 +1,24 @@
+{
+  "categories": [
+    { "name": "accessories", "items": ["a1", "a2", "a3"] },
+    { "name": "bags", "items": ["b1", "b2", "b3", "b5", "b6", "b7"] },
+    { "name": "coats", "items": ["coat1", "coat2", "coat3", "coat4", "coat5", "coat6"] },
+    { "name": "dresses", "items": ["d1", "d2"] },
+    { "name": "clothes", "items": ["c1", "c2", "c3"] }
+  ],
+  "pages": [
+    { "key": "home", "url": "index.php" },
+    { "key": "shop", "url": "shop.php" },
+    { "key": "cart", "url": "cart.php" },
+    { "key": "checkout", "url": "checkout.php" },
+    { "key": "contact", "url": "contact.php" },
+    { "key": "login", "url": "login.php" },
+    { "key": "register", "url": "register.php" },
+    { "key": "account", "url": "account.php" }
+  ],
+  "faq": [
+    { "question": "shipping", "answer": "We deliver worldwide within 5-7 business days." },
+    { "question": "returns", "answer": "Products can be returned within 14 days for a full refund." },
+    { "question": "payment", "answer": "We support card and online payment methods." }
+  ]
+}
